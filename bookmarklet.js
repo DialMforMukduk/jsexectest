@@ -1,0 +1,1 @@
+alert("This is a test of arbitrary js execution via bookmarklets");
